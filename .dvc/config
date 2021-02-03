@@ -1,4 +1,0 @@
-[core]
-    remote = model-colab
-['remote "model-colab"']
-    url = gs://model-colab/
